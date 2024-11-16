@@ -34,7 +34,7 @@ import { EditIcon } from "./EditIcon";
 import { EyeIcon } from "./EyeIcon";
 import Model from "./Model";
 import { useDispatch, useSelector } from "react-redux";
-import { getFarmersDetails } from "../../../Redux/userReducer/action";
+import { getFarmersDetails } from "../../../Redux/Slices/farmerSlice";
 import SelectFarmer from "../../Milk/SelectFarmer";
 import { getMilkDetails } from "../../../Redux/MilkReducer/action";
 import { useToast } from '@chakra-ui/react'
