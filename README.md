@@ -205,18 +205,7 @@ Our main objective is to complete all main functionalities of the Milkify web ap
 
 <br />
 
-  ## Contact
-
-If you want to contact me, you can reach me through the below handles. <br />
-
-
-[![linkedin](https://img.shields.io/badge/Akshay_Bombatkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akshayb-profile)
-[![GitHub](https://img.shields.io/badge/Akshay_Bombatkar-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/bakshay96)
-
-
-
-© 2024 Akshay Bombatkar
-
+ 
 ## Show your support
 
 Give a ⭐️ if you like this project!
